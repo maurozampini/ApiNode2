@@ -1,2 +1,2 @@
 # ApiNode2
- Practica de API con Node
+Práctica segunda API con Node.js + Mongoose + Express.js + jwt + hapi
